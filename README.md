@@ -1,16 +1,26 @@
-## Hi there 👋
+## 👋 Hi, I'm Jordi!
 
-<!--
-**jordizv/jordizv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm a Computer Engineering student at the University of Murcia, in my final year 🎓
 
-Here are some ideas to get you started:
+📚 Currently working on my final project on *Gaussian Splatting*, focusing on optimization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Aspiring Research Engineer | Engaged with cutting-edge research and eager to contribute new ideas!
+
+
+### Languages & Tools I frequently work with:
+
+**Programming Languages**  
+![C](https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white)
+
+**Frameworks & Tools**  
+![CUDA](https://img.shields.io/badge/CUDA-%23FF1B2D?style=for-the-badge&logo=nvidia&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%23FFFFFF?style=for-the-badge&logo=opencv&logoColor=black)
+![CMake](https://img.shields.io/badge/CMake-%2300789B?style=for-the-badge&logo=cmake&logoColor=white)
+
+
+
