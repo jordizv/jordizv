@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Jordi!
 
-💻 Computer Engineer (University of Murcia) working as a GPU/CUDA Software Engineer on 3D Gaussian Splatting
+💻 Computer Engineer working as a GPU/CUDA Software Engineer on 3D Gaussian Splatting
 
 ⚡Currently working on real-time rendering and GPU/CUDA optimization
 
